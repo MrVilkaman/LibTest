@@ -31,6 +31,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.github.MrVilkaman.LibTest:mylibrary:0.1'
     compile 'com.github.MrVilkaman.LibTest:mylibrary2:0.1'
-    compile 'com.github.MrVilkaman.LibTest:app:0.1'
 
 }
